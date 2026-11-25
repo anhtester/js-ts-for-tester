@@ -1,0 +1,17 @@
+[
+  {
+    "email": "admin@example.com",
+    "role": "admin",
+    "loginPath": "/admin/authentication"
+  },
+  {
+    "email": "projectmanager@example.com",
+    "role": "project-manager",
+    "loginPath": "/admin/authentication"
+  },
+  {
+    "email": "customer@example.com",
+    "role": "customer",
+    "loginPath": "/authentication/login"
+  }
+]
